@@ -1,30 +1,27 @@
 ### Hi there, I'm [Sunil Kumar Pradhan](https://www.linkedin.com/in/sunil-kumar-pradhan/) 👋
 
-I am a third year Machine Learning Ph.D. candidate at [Federation University](https://federation.edu.au), Australia. Apart from that I am seasonal ML developer that loves writing articles (on Machine Learning, Data Science, Productivity and PhD Tips) and contributing to open source.
+I am a data analyst with 5+ years of experience from AI, Ecommerce and Sci-Tech domain interpreting and analyzing data in order to drive successful business solutions. Proficient knowledge in statistics, mathematics, analytics and mechine learning. I have excellent understanding on business operation, products, analytical tools and leadership skills for enhancing business growth.
 
-**My Reseach Interest**:
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+
+**My Area Interest**:
+- Product and Strategy
+- Business Intelligence
+- ETL and Data Visualization
+- Mechine Learning and AI
+- Automation
 
  **I am open to**:
 
-- any collobration work,
-- machine learning projects(development or research),
-- research internships and
-- available to become reviewer or PC member for Machine Learning/Data mining journals or conferences.
+- any freelancing work,
+- any full time job,
+- any collaboration work,
+- machine learning projects(development or research)
 
 ## Skills:
 
 #### Languages:
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 #### ML/DL
 
