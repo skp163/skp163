@@ -4,7 +4,7 @@ I am a data analyst with 5+ years of experience from AI, Ecommerce and Sci-Tech 
 
 
 **My Area Interest**:
-- Product and Strategy
+-- Product and Strategy
 - Business Intelligence
 - ETL and Data Visualization
 - Mechine Learning and AI
