@@ -1,6 +1,6 @@
 ### Hi there, I'm [Sunil Kumar Pradhan](https://www.linkedin.com/in/sunil-kumar-pradhan/) 👋
 
--- Source  https://github.com/durgeshsamariya/durgeshsamariya/blob/master/README.md?plain=1
+[comment]: <> (Source  https://github.com/durgeshsamariya/durgeshsamariya/blob/master/README.md?plain=1)
 
 I am a data analyst with 5+ years of experience from AI, Ecommerce and Sci-Tech domain interpreting and analyzing data in order to drive successful business solutions. Proficient knowledge in statistics, mathematics, analytics and mechine learning. I have excellent understanding on business operation, products, analytical tools and leadership skills for enhancing business growth.
 
