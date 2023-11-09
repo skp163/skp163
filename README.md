@@ -33,6 +33,7 @@ I am a data analyst with 5+ years of experience from AI, Ecommerce and Sci-Tech 
 #### Visualization Tools:
 ![Tableau](https://img.shields.io/badge/Tableau-316192?style=for-the-badge&logo=tableau&logoColor=black)&nbsp;
 ![PowerBi](https://img.shields.io/badge/PowerBi-311100?style=for-the-badge&logo=powerbi&logoColor=yellow)&nbsp;
+![PowerBi](https://img.shields.io/badge/Apache-Superset-311109?style=for-the-badge&logo=superset&logoColor=black)&nbsp;
 
 
 #### ML/DL
