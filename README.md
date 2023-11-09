@@ -31,8 +31,8 @@ I am a data analyst with 5+ years of experience from AI, Ecommerce and Sci-Tech 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 #### Visualization Tools:
-![Tableau](https://img.shields.io/badge/Tableau-%20Visualisation?style=bold&logo=tableau&color=black)&nbsp;
-![Tableau](https://img.shields.io/badge/Tableau-316192?style=for-the-badge&logo=tableau&logoColor=white)&nbsp;
+![Tableau](https://img.shields.io/badge/Tableau-316192?style=for-the-badge&logo=tableau&logoColor=black)&nbsp;
+![PowerBi](https://img.shields.io/badge/PowerBi-311100?style=for-the-badge&logo=powerbi&logoColor=yellow)&nbsp;
 
 
 #### ML/DL
